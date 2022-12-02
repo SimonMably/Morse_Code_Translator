@@ -2,7 +2,7 @@
 
 A command line text to Morse code translator. Uses the International Morse Code model for translation.
 
-![Image of Morse code translator](https://github.com/SimonMably/Morse_Code_Translator/blob/main/images/morse_code_translator.jpg?raw=true)
+![Image of Morse code translator](https://github.com/SimonMably/Morse_Code_Translator/blob/main/morse_code_translator.jpg?raw=true)
 
 Enter some text - this can be a phrase, letters, numbers or any number of characters.
 
